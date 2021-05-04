@@ -25,8 +25,8 @@ body {
 
 /* ---------------------- fonts ------------*/
 
-h2, h2 { 
-    font-family: 'Zen Dots', cursive;
+h1, h2 { 
+    font-family: "Lato", cursive;
 }
 
 body { font-family: "Lato", sans-serif;
@@ -49,9 +49,9 @@ body { font-family: "Lato", sans-serif;
 }
 
 #tagline {
-    font-family: 'Zen Dots', cursive;
+    font-family: "Lato" , cursive;
     margin-left: 20px;
-
+    font-weight: bolder;
    
 }
 
@@ -98,11 +98,12 @@ body { font-family: "Lato", sans-serif;
 #overlay {
     float: right;
     font-size:100%;
+    font-weight: bolder;
     width:200px;
     height:500px;
-    margin-right: 50px;
+    margin-right: 70px;
 
-    background-color: rgba(211, 148, 12, 0.5);
+    background-color: rgba(211, 148, 12, 0.795);
     bottom:30px;
     right:120px;
 }
