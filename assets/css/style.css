@@ -102,6 +102,8 @@ body { font-family: "Lato", sans-serif;
     width:200px;
     height:500px;
     margin-right: 70px;
+    text-align: center;
+    padding-top:50px;
 
     background-color: rgba(211, 148, 12, 0.795);
     bottom:30px;
@@ -111,3 +113,60 @@ body { font-family: "Lato", sans-serif;
 
 
 /* ---------------------- Hero image ------------*/
+
+
+/* ---------------------- content ------------*/
+
+#showcase {
+    float: right;
+    margin-top: 100px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+}
+
+#repertoire {
+    float:left;
+    width:33%;
+    margin-top: 150px;
+    margin-left: 150px;
+
+    font-family: "Lato", cursive;
+    font-size: 150%;   
+}
+
+hr {
+    border-top: 2px solid white;
+    width: 75%;
+}
+
+.lower-text {
+  text-align: center;
+  margin-top: 50px;  
+  font-size:large;
+}
+
+.lower-text a {
+    color:rgb(255, 166, 0);
+}
+
+/* ---------------------- footer ------------*/
+
+footer {
+    height: 50px;
+}
+
+.social li {
+    display: inline;
+}
+
+.social{
+    text-align: center;
+
+}
+
+.social i {
+    color: rgb(255, 166, 0);
+    margin: 5%;
+    padding:5%;
+    font-size: 300%
+}
