@@ -7,6 +7,7 @@
 
 #logo {
     color: rgb(255, 166, 0);
+    
 }
 
 #tagline {
@@ -44,8 +45,11 @@ body { font-family: "Lato", sans-serif;
     font-size: 400%;
     margin-left: 20px;
     font-family: 'Zen Dots', cursive;
-    letter-spacing: -5px;
-    
+    letter-spacing: -5px;    
+}
+
+#logo, a {
+    text-decoration: none;
 }
 
 #tagline {
@@ -129,6 +133,7 @@ body { font-family: "Lato", sans-serif;
     width:33%;
     margin-top: 150px;
     margin-left: 150px;
+    text-align: center;
 
     font-family: "Lato", cursive;
     font-size: 150%;   
@@ -170,3 +175,22 @@ footer {
     padding:5%;
     font-size: 300%
 }
+
+/* ---------------------- footer ------------*/
+
+
+/* ---------------------- gallery ------------*/
+
+#gallery {
+    column-count: 3;
+    column-gap: 0;
+    line-height: 0;
+
+}
+
+#gallery img {
+    width: 100%;
+    height: 100%;
+}
+
+/* ---------------------- gallery ------------*/
