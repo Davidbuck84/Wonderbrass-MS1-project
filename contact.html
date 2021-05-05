@@ -42,9 +42,24 @@
 
     <section>
         <div id="hero-image">
-            <div id="overlay-form"> 
+            <div id="overlay-form-container"> 
             
-                <h2>Contact us to witness the wonder <i class="fas fa-saxophone"></i></h2>
+                <h1 class="form-title">Contact us to witness the wonder <i class="fas fa-saxophone"></i></h1>
+            
+                <form id="overlayform" method="POST" action="https://formdump.codeinstitute.net/">
+                
+                    <label for="fname" class="input-label">First Name</label></form>
+                    <input id="fname" class="text-input" type="text" name="first_name" "required">
+                    <br>
+                    <label for="lname" class="input-label">Last Name</label>
+                    <input id="lname" class="text-input" type="text" name="last_name" "required">
+                    <br>
+                    <label for="email" class="input-label">Email Address</label>
+                    <input id="email" class="text-input" type="email" name="email_address" "required">
+                    
+                    <p><input type="submit" class="join-button" value="Join"></p>
+                
+                </form>
             
             </div>
         </div>

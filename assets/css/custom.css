@@ -207,5 +207,42 @@ footer {
 
 /* ---------------------- signup ------------*/
 
+#overlay-form-container {
+    float: right;
+    font-size:90%;
+    font-weight: bolder;
+    width:350px;
+    height:500px;
+    margin-right: 50px;
+    
 
+    background-color: rgba(211, 148, 12, 0.795);
+    bottom:30px;
+    right:120px;
+}
+
+.input-label {
+    margin-left:10px;
+}
+
+.form-title {
+    text-align-last: center;
+}
+
+
+
+
+.text-input {
+    width:75%;
+    height: 25px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top:10px;
+    clear: both;
+}
+
+.join-button {
+    margin-top: 0px;
+    margin-left: 10px;   
+}
 
