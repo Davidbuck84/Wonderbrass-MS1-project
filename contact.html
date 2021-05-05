@@ -46,18 +46,29 @@
             
                 <h1 class="form-title">Contact us to witness the wonder <i class="fas fa-saxophone"></i></h1>
             
-                <form id="overlayform" method="POST" action="https://formdump.codeinstitute.net/">
+            
+                  
+                <form>
                 
-                    <label for="fname" class="input-label">First Name</label></form>
-                    <input id="fname" class="text-input" type="text" name="first_name" "required">
-                    <br>
-                    <label for="lname" class="input-label">Last Name</label>
-                    <input id="lname" class="text-input" type="text" name="last_name" "required">
-                    <br>
-                    <label for="email" class="input-label">Email Address</label>
-                    <input id="email" class="text-input" type="email" name="email_address" "required">
-                    
-                    <p><input type="submit" class="join-button" value="Join"></p>
+                        <label for="fname" class="input-label">First Name</label>
+                        <input id="fname" class="text-input" type="text" name="first_name" required>
+                        <br>
+                        <label for="lname" class="input-label">Last Name</label>
+                        <input id="lname" class="text-input" type="text" name="last_name" required>
+                        <br>
+                        <label for="email" class="input-label">Email Address</label>
+                        <input id="email" class="text-input" type="email" name="email_address" required>
+                        
+                        <br>
+                
+                        <label for="join" id="join-label">Join</label>
+                        <input id="join" name="contact reason" value="join" type="radio" required>
+                        
+                        <label for="book-label">Book</label>
+                        <input id="book" name="contact reason" value="book" type="radio" required>
+            
+                
+                        <input type="submit" id="join-button" value="Send!">
                 
                 </form>
             

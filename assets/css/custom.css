@@ -227,6 +227,7 @@ footer {
 
 .form-title {
     text-align-last: center;
+    margin-bottom: 50px;
 }
 
 
@@ -243,6 +244,21 @@ footer {
 
 .join-button {
     margin-top: 0px;
-    margin-left: 10px;   
+    margin-left: 10px;  
+    padding-left: 20px; 
+    
 }
 
+#join-button {
+    margin-left:30px;
+}
+
+#join-label {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+
+#join {
+    margin-left:10px;
+}
