@@ -2,7 +2,7 @@
 
 # Wonderbrass Band webpage
 
-(Main screen shot)
+<img src= "Readme-images/Wonderbrass page.png">
 
 This page was created by David Buck, it's primary purpose is to promote the comunity band "Wonderbrass" based in Cardiff, South Wales. 
 
@@ -71,9 +71,9 @@ The website has been created with a mobile first design, and is easy to navigate
 
 * **Wireframes**
 
-    * Home page Wireframe (Link)
-    * Gallery Wireframe (link)
-    * Contact us Wireframe (link)
+    * Home page Wireframe <img src="Readme-images/Home page.png">
+    * Gallery Wireframe <img src="Readme-images/Gallery.png">
+    * Contact us Wireframe <img src="Readme-images/Contact.png">
     * Mobile Wireframe (link)
 <br>
 <br>
@@ -83,7 +83,8 @@ The website has been created with a mobile first design, and is easy to navigate
 
 * Website is responsive to variable device screen sizes, using Media Queries.
 
-* Features simple and clean navigation links and sign up page for more band info. (link nav picture)
+* Features simple and clean navigation links and sign up page for more band info.
+<img src="Readme-images/Wonderbrass page nav.png">
 <br>
 <br>
 <br>
@@ -197,7 +198,25 @@ This site has been tested through 2 Validators.
 
 # Content
 
+* The full hero image came from Shutter Stock - https://tinyurl.com/d6c7w2en
 
+* Quotes were taken from https://wonderbrass.org.uk as my project was to upgrade thier website.
+
+* All other content was written by the developer David Buck.
+
+* All Balsamiq content was created by the developer David Buck.
+
+<br>
+<br>
+<br>
+
+# Credits
+
+* My mentor Gerard Mc Bride.
+
+* Tutor support for helping fix issues in my sign up form.
+
+* The Slack comunity. With special mention to "Maggie Walsh", and "BrianMike"
 
 
 
