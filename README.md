@@ -123,7 +123,7 @@ This site has been tested through 2 Validators.
     
     * W3C HTML Markup Validator - https://validator.w3.org/ - <img src= "readme-images/html-validation.png">
 
-    * W3C CSS Validator - https://jigsaw.w3.org/css-validator/ - <img src= "readme-images/css-validaton.png">
+    * W3C CSS Validator - https://jigsaw.w3.org/css-validator/ - <img src="readme-images/css-validation.png">
 
 <br>
 <br>
