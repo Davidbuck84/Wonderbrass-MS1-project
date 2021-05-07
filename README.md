@@ -104,14 +104,25 @@ The website has been created with a mobile first design, and is easy to navigate
 * **Frameworks / Libraries Used**
 
     1. Google Fonts - https://fonts.google.com/
+        * Google fonts were used to adjust the styling of the page.
 
     2. Font Awesome - https://fontawesome.com/
+        * Font awesome was used to provide social media links at the footer of each page.
 
     3. Git Hub - https://github.com/
+        * GitHub is used to store the projects code after being pushed from Git.
 
     4. Git Pod - https://www.gitpod.io/
+        * Gitpod was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 
-    5. Balsamiq - https://balsamiq.com/wireframes/?gclid=Cj0KCQjwp86EBhD7ARIsAFkgakhVuPEb7QuTFo-Biei-9EleUWZkzatOTcrJQtaCN4TnSDZ50Mr31vsaAhJ4EALw_wcB
+    5. Hover.css: 
+        * Hover.css was used on the navbar to highlight the links on mouse over.
+
+    6. Balsamiq - https://balsamiq.com/wireframes/?gclid=Cj0KCQjwp86EBhD7ARIsAFkgakhVuPEb7QuTFo-Biei-9EleUWZkzatOTcrJQtaCN4TnSDZ50Mr31vsaAhJ4EALw_wcB
+        * Was used to creat wireframes in the plannig of the project.
+
+    7. Bootstrap - https://getbootstrap.com/
+        * Bootstrap was used to assist with the responsiveness and styling of the website.
 <br>
 <br>
 <br>
@@ -257,6 +268,8 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 * Tutor support for helping fix issues in my sign up form.
 
 * The Slack comunity. With special thanks to "Maggie Walsh", and "BrianMike"
+
+* Github and Code Institute sample readme files.
 
 
 
