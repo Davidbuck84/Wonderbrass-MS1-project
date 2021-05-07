@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
 
 
-/* ---------------------- colours ------------
+/* ---------------------- colours ------------ */
 
 #logo {
     color: rgb(255, 166, 0);
@@ -21,10 +21,11 @@ html {
 
 body {
     color: white;
+    background-color: black;
 }
 /* ---------------------- colours ------------*/
 
-/* ---------------------- fonts ------------
+/* ---------------------- fonts ------------ */
 
 h1, h2 { 
     font-family: "Lato", cursive;
@@ -35,14 +36,11 @@ body { font-family: "Lato", sans-serif;
 
 /* ---------------------- fonts ------------*/
 
-
-
-
-/* ---------------------- header/nav ------------
+/* ---------------------- header/nav ------------ */
 
 #logo {
     
-    font-size: 400%;
+    font-size: 6rem;
     margin-left: 20px;
     font-family: 'Zen Dots', cursive;
     letter-spacing: -5px;    
@@ -60,13 +58,12 @@ body { font-family: "Lato", sans-serif;
 }
 
 #nav {
-    font-size: 150%;
+    font-size: 2rem;
     list-style-type: none;
     letter-spacing: 4px;
 }
 
 #nav li {
-    float:right;
     margin-right: 50px;
     font-family: 'Zen Dots', cursive;
     color: rgb(204, 134, 4);
@@ -76,6 +73,7 @@ body { font-family: "Lato", sans-serif;
 #nav a {
     text-decoration: none;
     color: rgb(204, 134, 4);
+    display: block;
 }
 
 
