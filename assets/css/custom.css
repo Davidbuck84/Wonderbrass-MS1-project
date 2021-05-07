@@ -117,7 +117,7 @@ body { font-family: "Lato", sans-serif;
 /* ---------------------- Hero image ------------*/
 
 
-/* ---------------------- content ------------ */
+/* ---------------------- content 1 ------------ */
 
  #showcase {
 
@@ -132,17 +132,19 @@ body { font-family: "Lato", sans-serif;
 
 
 #repertoire {
-    width:100%;
+    
+    width:75%;
     margin-top: 100px;
     margin-left:100px;
     text-align: center;
 
     font-family: "Lato", cursive;
-    font-size: 25px;   
+    font-size: 20px;   
 }
 
+/* ---------------------- content 1 ------------ */
 
-/*
+/* ---------------------- content 2 ------------ */
 
 hr {
     border-top: 2px solid white;
@@ -150,14 +152,18 @@ hr {
 }
 
 .lower-text {
+  
   text-align: center;
   margin-top: 50px;  
-  font-size:large;
+  font-size:20px;
+  font-family: "Lato", cursive;
 }
 
 .lower-text a {
     color:rgb(255, 166, 0);
 }
+
+/* ---------------------- content 2 ------------ */
 
 /* ---------------------- footer ------------
 
