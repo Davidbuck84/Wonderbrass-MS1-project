@@ -159,6 +159,8 @@ This site has been tested through 2 Validators.
 
 * Friends and family have experience the website and asked for feed back.
 
+* Changes made to responsiveness after posting to GitPages and testing in the real world on family and friends devices.
+
 * This site has also been subjected to "Google Chrome, Dev Tools Lighthouse Report" <img src="readme-images/lighthouse-report.png">
 
 <br>
