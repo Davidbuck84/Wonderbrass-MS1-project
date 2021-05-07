@@ -126,13 +126,14 @@ body { font-family: "Lato", sans-serif;
 
     margin-top: 100px;
     margin-bottom: 50px;
-    
+    border-width: 0px;
 }
 
 #showcase-video {
-    width: 50%;
-    margin-left: 25%;
-    margin-top: 5%;
+    width: 80%;
+    margin-left:100px;
+    margin-top: 10%;
+    border-width: 0px;
 }
 
 

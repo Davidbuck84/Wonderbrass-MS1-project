@@ -2,7 +2,7 @@
 
 # Wonderbrass Band webpage
 
-<img src= "Readme-images/Wonderbrass page.png">
+<img src= "Readme-images/Wonderbrass-page.png">
 
 This page was created by David Buck, it's primary purpose is to promote the comunity band "Wonderbrass" based in Cardiff, South Wales. 
 
@@ -48,17 +48,19 @@ The website has been created with a mobile first design, and is easy to navigate
 
 * **Colour schemes**
 
-    * There are two main colours used in the design, orange and white text/black background.
+    * There are two main colours used in the design, orange and white text/black background. 
+    
+    color: rgb(255, 166, 0)
 
-    (colour values here)
+    <br>
 
 * **Fonts**
 
     * Two fonts were used from Google fonts. These were "Oswald" and "Zen Dots". Both were given a backup of "cursive"
 
-    @https://fonts.google.com/specimen/Oswald
+    https://fonts.google.com/specimen/Oswald
 
-    @https://fonts.google.com/specimen/Zen+Dots
+    https://fonts.google.com/specimen/Zen+Dots
 <br>
 <br>
 
@@ -71,10 +73,10 @@ The website has been created with a mobile first design, and is easy to navigate
 
 * **Wireframes**
 
-    * Home page Wireframe <img src="Readme-images/Home page.png">
+    * Home page Wireframe <img src="Readme-images/Home-page.png">
     * Gallery Wireframe <img src="Readme-images/Gallery.png">
     * Contact us Wireframe <img src="Readme-images/Contact.png">
-    * Mobile Wireframe (link)
+    * Mobile Wireframe <img src="Readme-images/Mobile-wireframe.png">
 <br>
 <br>
 <br>
@@ -84,7 +86,7 @@ The website has been created with a mobile first design, and is easy to navigate
 * Website is responsive to variable device screen sizes, using Media Queries.
 
 * Features simple and clean navigation links and sign up page for more band info.
-<img src="Readme-images/Wonderbrass page nav.png">
+<img src="Readme-images/Wonderbrass-page-nav.png">
 <br>
 <br>
 <br>
@@ -94,7 +96,7 @@ The website has been created with a mobile first design, and is easy to navigate
 * **Languages Used**
     
     * HTML5
-
+    * Bootstrap V4.3.1
     * CSS3
 <br>
 <br>
@@ -119,9 +121,9 @@ This site has been tested through 2 Validators.
 
 * **Validators**
     
-    * W3C HTML Markup Validator - https://validator.w3.org/ - (Link results)
+    * W3C HTML Markup Validator - https://validator.w3.org/ - <img src= "Readme-images/HTML-validation.png">
 
-    * W3C CSS Validator - https://jigsaw.w3.org/css-validator/ - (Link results)
+    * W3C CSS Validator - https://jigsaw.w3.org/css-validator/ - <img src= "Readme-images/CSS-validaton.png">
 
 <br>
 <br>
@@ -143,7 +145,7 @@ This site has been tested through 2 Validators.
 
     * When a user returns to this page, they will find content is updated regulary and links to social media and media content remain current.
 
-    * Easily be able to contact the band though contact us page
+    * Easily be able to contact the band though contact us page.
 
 <br>
 <br>
@@ -155,7 +157,7 @@ This site has been tested through 2 Validators.
 
 * It has been tested for mobile responsivness using Chrome Dev Tools.
 
-* Friends and family have experience the website and ask for feed back.
+* Friends and family have experience the website and asked for feed back.
 
 <br>
 <br>
@@ -163,7 +165,7 @@ This site has been tested through 2 Validators.
 
 # Known Bugs
 
-???????
+The embeded youtube video on index.html is not very responsive, after multiple tests and discussions with colegues, I put this down to the low quality of the original video, stopping me making it the size I wish.
 
 <br>
 <br>
@@ -172,6 +174,8 @@ This site has been tested through 2 Validators.
 # Things To Change or Implement In The Future
 
 * Website was coded using HTML5 and Custom CSS3. I tried to add Bootstrap 4.4.1 whilst quite far into the project, this confused and overwrote a lot of CSS and ruind the site. With hindsite, this should have been implemented from the start, allowing my to make the site more responsive to a greater range of mobile devices and also allow me to add some more custom/fluid CSS content.
+
+* I have now added bootstrap libraries and made the site more responsive, but it would have been a lot better to add it from the start of the project.
 
 <br>
 <br>
