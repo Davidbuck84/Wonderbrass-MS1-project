@@ -2,7 +2,7 @@
 
 # Wonderbrass Band webpage
 
-<img src= "Readme-images/Wonderbrass-page.png">
+<img src= "readme-images/wonderbrass-page.png">
 
 This page was created by David Buck, it's primary purpose is to promote the comunity band "Wonderbrass" based in Cardiff, South Wales. 
 
@@ -73,10 +73,10 @@ The website has been created with a mobile first design, and is easy to navigate
 
 * **Wireframes**
 
-    * Home page Wireframe <img src="Readme-images/Home-page.png">
-    * Gallery Wireframe <img src="Readme-images/Gallery.png">
-    * Contact us Wireframe <img src="Readme-images/Contact.png">
-    * Mobile Wireframe <img src="Readme-images/Mobile-wireframe.png">
+    * Home page Wireframe <img src="readme-images/home-page.png">
+    * Gallery Wireframe <img src="readme-images/gallery.png">
+    * Contact us Wireframe <img src="readme-images/contact.png">
+    * Mobile Wireframe <img src="readme-images/mobile-wireframe.png">
 <br>
 <br>
 <br>
@@ -86,7 +86,7 @@ The website has been created with a mobile first design, and is easy to navigate
 * Website is responsive to variable device screen sizes, using Media Queries.
 
 * Features simple and clean navigation links and sign up page for more band info.
-<img src="Readme-images/Wonderbrass-page-nav.png">
+<img src="readme-images/wonderbrass-page-nav.png">
 <br>
 <br>
 <br>
@@ -121,9 +121,9 @@ This site has been tested through 2 Validators.
 
 * **Validators**
     
-    * W3C HTML Markup Validator - https://validator.w3.org/ - <img src= "Readme-images/HTML-validation.png">
+    * W3C HTML Markup Validator - https://validator.w3.org/ - <img src= "readme-images/html-validation.png">
 
-    * W3C CSS Validator - https://jigsaw.w3.org/css-validator/ - <img src= "Readme-images/CSS-validaton.png">
+    * W3C CSS Validator - https://jigsaw.w3.org/css-validator/ - <img src= "readme-images/css-validaton.png">
 
 <br>
 <br>
@@ -159,9 +159,14 @@ This site has been tested through 2 Validators.
 
 * Friends and family have experience the website and asked for feed back.
 
+* This site has also been subjected to "Google Chrome, Dev Tools Lighthouse Report" <img src="readme-images/lighthouse-report.png">
+
 <br>
 <br>
 <br>
+
+
+
 
 # Known Bugs
 
