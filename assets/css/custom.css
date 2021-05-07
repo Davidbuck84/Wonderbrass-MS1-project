@@ -40,7 +40,7 @@ body { font-family: "Lato", sans-serif;
 
 #logo {
     
-    font-size: 6rem;
+    font-size: 12rem;
     margin-left: 1px;
     font-family: 'Zen Dots', cursive;
     letter-spacing: -5px;    
@@ -196,6 +196,36 @@ footer {
 /* ---------------------- footer ------------*/
 
 /* ---------------------- media query/bootstrap ------------*/
+
+@media (min-width: 320px) and (max-width: 500px) {
+    #logo {
+        font-size: 4rem;
+        margin-left:10px;
+    }
+
+    #repertoire {
+        margin-top: 50px;
+        margin-left:50px;
+    }
+
+    #showcase-video {
+        width: 80%;
+        margin-left:40px;
+        margin-top: 5px;
+        border-width: 0px;
+    }
+
+    h3 {
+        font-size: 1.5rem;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 800px) {
+        #logo {
+            font-size: 8rem;
+        }
+}
+
 /* ---------------------- media query/bootstrap ------------*/
 
 /* ---------------------- gallery ------------ */
