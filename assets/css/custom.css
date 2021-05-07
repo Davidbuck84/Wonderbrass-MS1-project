@@ -117,25 +117,32 @@ body { font-family: "Lato", sans-serif;
 /* ---------------------- Hero image ------------*/
 
 
-/* ---------------------- content ------------
+/* ---------------------- content ------------ */
 
-#showcase {
-    float: right;
+ #showcase {
+
     margin-top: 100px;
-    margin-right: 150px;
     margin-bottom: 50px;
+    
 }
 
+#showcase-video {
+    width: 100%;
+}
+
+
 #repertoire {
-    float:left;
-    width:33%;
-    margin-top: 150px;
-    margin-left: 150px;
+    width:100%;
+    margin-top: 100px;
+    margin-left:100px;
     text-align: center;
 
     font-family: "Lato", cursive;
-    font-size: 150%;   
+    font-size: 25px;   
 }
+
+
+/*
 
 hr {
     border-top: 2px solid white;
