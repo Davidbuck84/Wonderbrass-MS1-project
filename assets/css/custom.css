@@ -41,7 +41,7 @@ body { font-family: "Lato", sans-serif;
 #logo {
     
     font-size: 8rem;
-    margin-left: 20px;
+    margin-left: 1px;
     font-family: 'Zen Dots', cursive;
     letter-spacing: -5px;    
 }
@@ -52,7 +52,7 @@ body { font-family: "Lato", sans-serif;
 
 #tagline {
     font-family: "Lato" , cursive;
-    margin-left: 20px;
+    margin-left: 1px;
     font-weight: bolder;
    
 }
@@ -165,7 +165,7 @@ hr {
 
 /* ---------------------- content 2 ------------ */
 
-/* ---------------------- footer ------------
+/* ---------------------- footer ------------ */
 
 footer {
     height: 50px;
@@ -190,79 +190,6 @@ footer {
 /* ---------------------- footer ------------*/
 
 /* ---------------------- media query/bootstrap ------------*/
-
-/* No greater than 480px, no less than 320px */
-/* Copied from https://www.w3schools.com/css/css_comments.asp 
-
-@media screen and (max-width: 480px) and (min-width:320px) {
-    #logo {
-    
-        font-size: 250%;
-        margin-left: 5%;
-        font-family: 'Zen Dots', cursive;
-        letter-spacing: -5px;    
-    }
-
-
-#hero-image {
-    width: 100%;
-    height: 20%;
-    background: url('./images/sax.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    overflow: hidden;
-    background-size: cover;
-    }
-
-
-    #tagline {
-        font-family: "Lato" , cursive;
-        margin-left: 5px;
-        font-weight: bolder;
-        visibility: hidden;
-        font-size: 9px;
-       
-    }
-
-    #nav {
-        font-size: 75%;
-        list-style-type: none;
-        letter-spacing: 1px;
-    
-    }
-
-    #nav li {
-        
-        margin-right: 10px;
-        font-family: 'Zen Dots', cursive;
-        color: rgb(204, 134, 4);
-       
-    }
-
-    #repertoire {
-        
-        padding-top: 10px;
-        margin: auto;
-        text-align: center;
-        width: 100%;
-        font-family: "Lato", cursive;
-        font-size: 100%;   
-    }
-
-    #showcase-video {
-        
-        width: 200%;    !important;
-        height: auto;   !important;
-    }
-
-
-    .social i {
-        color: rgb(255, 166, 0);
-        font-size: 200%
-
-    }
-}
-
 /* ---------------------- media query/bootstrap ------------*/
 
 /* ---------------------- gallery ------------
