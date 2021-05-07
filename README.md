@@ -110,7 +110,7 @@ The website has been created with a mobile first design, and is easy to navigate
         * Font awesome was used to provide social media links at the footer of each page.
 
     3. Git Hub - https://github.com/
-        * GitHub is used to store the projects code after being pushed from Git.
+        * GitHub was used to store the projects code after being pushed from Git.
 
     4. Git Pod - https://www.gitpod.io/
         * Gitpod was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
