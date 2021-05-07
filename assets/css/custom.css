@@ -40,7 +40,7 @@ body { font-family: "Lato", sans-serif;
 
 #logo {
     
-    font-size: 8rem;
+    font-size: 6rem;
     margin-left: 1px;
     font-family: 'Zen Dots', cursive;
     letter-spacing: -5px;    
@@ -81,6 +81,9 @@ body { font-family: "Lato", sans-serif;
     border-bottom: 2px solid rgb(204, 134, 4);
 }
 
+.container {
+    padding-left: 15px;
+}
 
 /* ---------------------- header/nav ------------*/
 
@@ -127,7 +130,9 @@ body { font-family: "Lato", sans-serif;
 }
 
 #showcase-video {
-    width: 100%;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
 }
 
 
