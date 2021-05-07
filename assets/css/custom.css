@@ -197,6 +197,9 @@ footer {
 
 /* ---------------------- media query/bootstrap ------------*/
 
+
+/* Credit to https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/ for help with media queries */
+
 @media (min-width: 320px) and (max-width: 500px) {
     #logo {
         font-size: 4rem;
