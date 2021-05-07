@@ -1,10 +1,10 @@
-(Project link here)
 
-# Wonderbrass Band webpage
+
+# Wonderbrass Band webpage - https://davidbuck84.github.io/Wonderbrass-MS1-project/
 
 <img src= "readme-images/wonderbrass-page.png">
 
-This page was created by David Buck, it's primary purpose is to promote the comunity band "Wonderbrass" based in Cardiff, South Wales. 
+This page was created by David Buck, it's primary purpose is to promote the community band "Wonderbrass" based in Cardiff, South Wales. 
 
 My wife is a member of the band and she suggested their website was to busy and tired looking.
 
@@ -18,15 +18,15 @@ The website has been created with a mobile first design, and is easy to navigate
 
 * **Visitor goals**
 
-    * When a first time user visits this page. They want to understand the purpose of the page.
+    * When a first time user visits this page, they want to easily understand the purpose of the page.
     
-    * see and hear the music.
+    * See and hear the music.
     
-    * easily find contact details for the band. 
+    * Easily find contact details for the band. 
 
     * Find links to band youtube content and social media.
 
-* **Returning vistor goals**
+* **Returning visitor goals**
 
     * When a user returns to this page, they would like to find content is updated regulary.
 
@@ -48,15 +48,15 @@ The website has been created with a mobile first design, and is easy to navigate
 
 * **Colour schemes**
 
-    * There are two main colours used in the design, orange and white text/black background. 
+    * There are two main colours used in the design, orange and white text with a black background. 
     
-    color: rgb(255, 166, 0)
+    color: rgb(255, 166, 0) = Orange
 
     <br>
 
 * **Fonts**
 
-    * Two fonts were used from Google fonts. These were "Oswald" and "Zen Dots". Both were given a backup of "cursive"
+    * Two fonts were used from Google fonts. These were "Oswald" and "Zen Dots". Both were given a backup of "cursive".
 
     https://fonts.google.com/specimen/Oswald
 
@@ -66,7 +66,7 @@ The website has been created with a mobile first design, and is easy to navigate
 
 * **Images**
 
-    * The site comprises of one extra large Hero Image. with a text overlay on both the home screen and and contact page
+    * The site comprises of one extra large Hero Image, with a text overlay on both the home screen and and contact page.
 <br>
 <br>
 <br>
@@ -83,7 +83,7 @@ The website has been created with a mobile first design, and is easy to navigate
 
 # Site Features
 
-* Website is responsive to variable device screen sizes, using Media Queries.
+* Website is responsive to variable device screen sizes using Media Queries and Bootstrap libraries
 
 * Features simple and clean navigation links and sign up page for more band info.
 <img src="readme-images/wonderbrass-page-nav.png">
@@ -91,7 +91,7 @@ The website has been created with a mobile first design, and is easy to navigate
 <br>
 <br>
 
-# Technoligies used
+# Technologies used
 
 * **Languages Used**
     
@@ -101,7 +101,7 @@ The website has been created with a mobile first design, and is easy to navigate
 <br>
 <br>
 
-* **Frameworks, Libraries Used**
+* **Frameworks / Libraries Used**
 
     1. Google Fonts - https://fonts.google.com/
 
@@ -133,19 +133,19 @@ This site has been tested through 2 Validators.
 
 * **First Time visitor testing**
 
-    * When first loading the site, they see a large hero image, with overlay text
+    * When first loading the site, the user sees a large hero image with overlay text.
     
-    * Easy navigation links to conatact the band and see media content.
+    * Easy navigation links to conatact the band and view media content.
 
-    * Contact links can be found at the bottom of the main home page or through contact nav bar link.
+    * Contact links can be found at the bottom of the main home page, or through the nav bar links.
 
 <br>
 
-* **Returning vistor goals**
+* **Returning visitor goals**
 
-    * When a user returns to this page, they will find content is updated regulary and links to social media and media content remain current.
+    * When a user returns to this page they will find content is updated regularly. As well as social media links and content remaining current.
 
-    * Easily be able to contact the band though contact us page.
+    * Easily be able to contact the band through contact us page.
 
 <br>
 <br>
@@ -155,42 +155,46 @@ This site has been tested through 2 Validators.
 
 * Website has been loaded on multiple browsers, such as Chrome, Safari, Internet Explorer and Firefox.
 
-* It has been tested for mobile responsivness using Chrome Dev Tools.
+* It has been tested for mobile responsiveness using Chrome Dev Tools.
 
-* Friends and family have experience the website and asked for feed back.
+* Friends and family have experience the website and have been asked for feedback.
 
-* Changes made to responsiveness after posting to GitPages and testing in the real world on family and friends devices.
+* Changes have made to responsiveness after publishing to GitPages and testing on real world devices.
 
-* This site has also been subjected to "Google Chrome, Dev Tools Lighthouse Report" <img src="readme-images/lighthouse-report.png">
+* This site has also been subjected to "Google Chrome, Dev Tools Lighthouse Report"
+
+ <img src="readme-images/lighthouse-report.png">
 
 <br>
 <br>
 <br>
-
-
 
 
 # Known Bugs
 
-The embeded youtube video on index.html is not very responsive, after multiple tests and discussions with colegues, I put this down to the low quality of the original video, stopping me making it the size I wish.
+The embeded youtube video on index.html is not very responsive, after multiple tests and discussions with colleagues, I have reached the conclusion that the low quality of the original video, prevents the expected result.
 
 <br>
 <br>
 <br>
 
-# Things To Change or Implement In The Future
+# Things to Change or Implement in the Future
 
-* Website was coded using HTML5 and Custom CSS3. I tried to add Bootstrap 4.4.1 whilst quite far into the project, this confused and overwrote a lot of CSS and ruind the site. With hindsite, this should have been implemented from the start, allowing my to make the site more responsive to a greater range of mobile devices and also allow me to add some more custom/fluid CSS content.
+* The website was coded using HTML5 and Custom CSS3. 
 
-* I have now added bootstrap libraries and made the site more responsive, but it would have been a lot better to add it from the start of the project.
+* Whilst adding Bootstrap 4.4.1 at a later stage in the project, this subsquently overwrote the custom CSS and affected the layout/responsiveness of the site. With hindsite, Bootstrap should have been implemented from the start of the project, allowing me to make the site more responsive on a greater range of devices. It would also allow me to add more custom/fluid CSS content.
+
+                    ----------- edit ------------
+
+* All future projects, Bootstrap and other libraries will be added at the start of the project. 
 
 <br>
 <br>
 <br>
 
-# Deployment
+# Deployment (Credit GITHUB template README)
 
-* **GitHub Pages** (Credit GITHUB template README)
+* **GitHub Pages** 
 
     * The project was deployed to GitHub Pages using the following steps...
 
@@ -200,6 +204,31 @@ The embeded youtube video on index.html is not very responsive, after multiple t
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+
+* **Forking the GitHub Repository**
+
+    * By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log in to GitHub and locate the GitHub Repository
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+You should now have a copy of the original repository in your GitHub account.
+
+
+* **Making a Local Clone**
+1. Log in to GitHub and locate the GitHub Repository
+Under the repository name, click "Clone or download".
+2. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+3. Open Git Bash
+4. Change the current working directory to the location where you want the cloned directory to be made.
+5. Type git clone, and then paste the URL you copied in Step 3.
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+Press Enter. Your local clone will be created.
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
 
 (Credit GITHUB template README)
 
@@ -211,7 +240,7 @@ The embeded youtube video on index.html is not very responsive, after multiple t
 
 * The full hero image came from Shutter Stock - https://tinyurl.com/d6c7w2en
 
-* Quotes were taken from https://wonderbrass.org.uk as my project was to upgrade thier website.
+* Quotes and videos were taken from https://wonderbrass.org.uk as my project was to upgrade their website.
 
 * All other content was written by the developer David Buck.
 
@@ -227,7 +256,7 @@ The embeded youtube video on index.html is not very responsive, after multiple t
 
 * Tutor support for helping fix issues in my sign up form.
 
-* The Slack comunity. With special mention to "Maggie Walsh", and "BrianMike"
+* The Slack comunity. With special thanks to "Maggie Walsh", and "BrianMike"
 
 
 
