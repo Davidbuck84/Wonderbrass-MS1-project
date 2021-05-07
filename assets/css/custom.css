@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
 
 
-/* ---------------------- colours ------------*/
+/* ---------------------- colours ------------
 
 #logo {
     color: rgb(255, 166, 0);
@@ -24,7 +24,7 @@ body {
 }
 /* ---------------------- colours ------------*/
 
-/* ---------------------- fonts ------------*/
+/* ---------------------- fonts ------------
 
 h1, h2 { 
     font-family: "Lato", cursive;
@@ -38,7 +38,7 @@ body { font-family: "Lato", sans-serif;
 
 
 
-/* ---------------------- header/nav ------------*/
+/* ---------------------- header/nav ------------
 
 #logo {
     
@@ -87,7 +87,7 @@ body { font-family: "Lato", sans-serif;
 /* ---------------------- header/nav ------------*/
 
 
-/* ---------------------- Hero image ------------*/
+/* ---------------------- Hero image ------------
 
 #hero-image {
     width: 100%;
@@ -119,7 +119,7 @@ body { font-family: "Lato", sans-serif;
 /* ---------------------- Hero image ------------*/
 
 
-/* ---------------------- content ------------*/
+/* ---------------------- content ------------
 
 #showcase {
     float: right;
@@ -154,7 +154,7 @@ hr {
     color:rgb(255, 166, 0);
 }
 
-/* ---------------------- footer ------------*/
+/* ---------------------- footer ------------
 
 footer {
     height: 50px;
@@ -181,7 +181,7 @@ footer {
 /* ---------------------- media query/bootstrap ------------*/
 
 /* No greater than 480px, no less than 320px */
-/* Copied from https://www.w3schools.com/css/css_comments.asp */
+/* Copied from https://www.w3schools.com/css/css_comments.asp 
 
 @media screen and (max-width: 480px) and (min-width:320px) {
     #logo {
@@ -254,7 +254,7 @@ footer {
 
 /* ---------------------- media query/bootstrap ------------*/
 
-/* ---------------------- gallery ------------*/
+/* ---------------------- gallery ------------
 
 #gallery {
     column-count: 3;
@@ -270,7 +270,7 @@ footer {
 /* ---------------------- gallery ------------*/
 
 
-/* ---------------------- signup ------------*/
+/* ---------------------- signup ------------
 
 #overlay-form-container {
     float: right;
